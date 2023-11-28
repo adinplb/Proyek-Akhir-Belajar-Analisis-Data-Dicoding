@@ -1,5 +1,5 @@
 # Proyek Akhir Analisis Data Dicoding
-his is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset.
+this is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset.
 
 ## Tahapan Proses Analisis Data
 1. Data Wrangling:
